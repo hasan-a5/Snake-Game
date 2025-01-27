@@ -3,4 +3,4 @@ This is a simple implementation of the classic Snake game, developed using C++ a
 
 ## Instructions to run
 1. make
-2. ./project.exe
+2. .\project.exe
